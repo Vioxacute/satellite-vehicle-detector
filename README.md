@@ -15,8 +15,8 @@ Detects 5 classes in aerial / overhead imagery:
 
 ## Sample detections
 
-![Tank detected in foliage](data/1.png)
-![Air-fighters on satellite imagery](data/2.png)
+![Tank detected in foliage](samples/1.png)
+![Air-fighters on satellite imagery](samples/2.png)
 
 ## How it works
 
