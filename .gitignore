@@ -1,8 +1,6 @@
 .venv/
 venv/
 data/
-models/*.pt
-models/*/weights/
 __pycache__/
 .idea/
 *.pyc
